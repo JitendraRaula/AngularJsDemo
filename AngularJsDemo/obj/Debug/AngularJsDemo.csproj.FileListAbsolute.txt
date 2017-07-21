@@ -1,0 +1,66 @@
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\ApplicationInsights.config
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\csc.exe
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\vbc.exe
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.dll.config
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.pdb
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Web.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Web.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.csprojResolveAssemblyReference.cache
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.dll
+c:\users\sharada.patil\documents\visual studio 2015\Projects\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.pdb
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\ApplicationInsights.config
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\csc.exe
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\vbc.exe
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.dll.config
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\AngularJsDemo.pdb
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Web.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.ApplicationInsights.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.Web.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.ApplicationInsights.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.dll
+D:\GitHub\PP\AngularJsDemo\AngularJsDemo\obj\Debug\AngularJsDemo.pdb
